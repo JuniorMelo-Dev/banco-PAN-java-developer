@@ -17,5 +17,12 @@ public class TipoDados {
         System.out.println(cpf);
         System.out.println(pi);
         System.out.println(salario);
+
+        // criando tipo "CONSTANTE" usando "final"
+        String meuNome = "Junior Melo"; //variável comum
+        System.out.println(meuNome);
+
+        final int MINHA_SENHA = 1223; //variável não pode mudar de valor
+        //MINHA_SENHA = 1224;
     }
 }

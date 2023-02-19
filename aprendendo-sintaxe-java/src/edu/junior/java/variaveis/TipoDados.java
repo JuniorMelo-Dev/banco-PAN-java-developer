@@ -24,5 +24,6 @@ public class TipoDados {
 
         final int MINHA_SENHA = 1223; //variável não pode mudar de valor
         //MINHA_SENHA = 1224;
+        System.out.println(MINHA_SENHA);
     }
 }

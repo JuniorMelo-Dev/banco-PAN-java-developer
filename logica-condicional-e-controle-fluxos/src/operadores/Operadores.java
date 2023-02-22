@@ -35,5 +35,6 @@ public class Operadores {
         System.out.println("sh == by e sh > d " + ((sh == by) && (sh > d)));
         System.out.println("s == s2 " + (s == s2));
         System.out.println("c != c2 " + (c != c2));
+        System.out.println("Sou " + s + " estudante de Java.");
     }
 }
